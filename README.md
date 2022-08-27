@@ -14,3 +14,5 @@ A Final Project of the Course Developing Applications Using Java Script by Cloud
 - Throughout the game the app displays the current question no and total no of questions. ("Question x of y")
 
 - At the end, It shows your Score and shows the Brief Summary of the Quiz!
+
+You can check the site [here](https://exploreruby.github.io/TriviaApp/).
